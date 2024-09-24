@@ -23,6 +23,7 @@ HybridTest.java: Unit tests for the Hybrid class to ensure proper functionality 
 How to Build and Run:
 1) Clone the repository.
 1) run these cmds (outside of all directories):
-  mvn compile 
+  mvn compile
+
   mvn clean test
 
